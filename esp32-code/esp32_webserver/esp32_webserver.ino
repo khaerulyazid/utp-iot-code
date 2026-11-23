@@ -2,7 +2,6 @@
 #include <WebServer.h>
 #include "index_html.h"
 
-// Sesuaikan dengan jaringan praktikum
 const char* WIFI_SSID = "NAMA_WIFI";
 const char* WIFI_PASS = "PASSWORD_WIFI";
 

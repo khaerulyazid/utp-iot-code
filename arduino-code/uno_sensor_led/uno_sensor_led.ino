@@ -3,8 +3,8 @@
 
 const uint8_t PIN_DHT = 2;
 const uint8_t PIN_LED = 13;
-const uint8_t PIN_RX  = 10;   // terima dari TX ESP32
-const uint8_t PIN_TX  = 11;   // kirim ke RX ESP32 (lewat pembagi tegangan)
+const uint8_t PIN_RX  = 10;   
+const uint8_t PIN_TX  = 11;   
 
 const unsigned long INTERVAL_BACA = 2000;
 
